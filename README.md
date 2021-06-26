@@ -1,6 +1,6 @@
 # Birthday App
 
-This is a program that congratulates your friend or you on your birthday.
+This is a program that congratulates your friend or you on your birthday day.
 -----
 ## How to change names, dates and wishes
 
